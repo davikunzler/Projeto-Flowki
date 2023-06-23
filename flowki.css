@@ -1,0 +1,250 @@
+.inicio {
+    background-color: blueviolet;
+    list-style: none;
+    display: flex;
+    justify-content: space-around
+}
+
+
+
+
+.titulo {
+    font-size: xx-large;
+    display: flex;
+    margin-left: 41vw;
+    text-align: center;
+}
+
+.botao {
+    background-color: blueviolet;
+}
+
+.enter {
+    background-color: rgb(153, 136, 136);
+}
+
+.conta {
+    background-color: rgb(153, 136, 136);
+}
+
+.fff {
+    margin-left: 30vw;
+    margin-right: 0;
+    display: flex;
+}
+
+
+.cabecalho {
+    text-align: center;
+    word-spacing: 20px;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+
+    height: 5vh;
+    background-color: silver;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0px;
+
+}
+
+
+.palavras {
+    text-decoration: none;
+}
+
+
+
+.nav1 {
+    width: 30vw;
+    text-align: center;
+    display: inline;
+    justify-content: space-between;
+    margin-left: 0px;
+    margin-top: 1px;
+    font-size: 20px;
+}
+
+.titulo1 {
+    display: flex;
+    margin-top: 2vw;
+    margin-left: 4vw
+}
+
+div {
+    height: auto;
+    width: 100%;
+}
+
+.lista1 {
+    margin-top: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img1 {
+    width: 350px;
+    margin: 4vw;
+    margin-bottom: 1vw;
+}
+
+.img2 {
+    width: 337px;
+    margin: 4vw;
+    margin-bottom: 1vw;
+}
+
+.img3 {
+    width: 290px;
+    margin: 4vw;
+    margin-bottom: 1vw;
+}
+
+.marca:hover {
+    border: 2px solid rgb(162, 0, 255);
+}
+
+
+
+
+
+.pag2 {
+    text-align: center;
+    display: flex;
+    margin-left: 150px;
+    margin-top: 4vw;
+    margin-right: 150px;
+    justify-content: space-between;
+    margin-bottom: 4vw;
+    font-size: xx-large;
+}
+
+
+
+
+.lista2 {
+    margin-right: 30px;
+    margin-left: 100px;
+    align-items: center;
+    list-style: none;
+    display: flex;
+    justify-content: space-between
+}
+
+
+
+
+.max {
+    width: 300px;
+    height: 400px;
+    margin-bottom: 1vw;
+}
+
+.tbm {
+    width: 300px;
+    height: 400px;
+    margin-left: 50px;
+    margin-bottom: 1vw;
+}
+
+.ata {
+
+    width: 400px;
+    height: 400px;
+    margin-bottom: 1vw;
+}
+
+
+.descricao {
+    margin-right: 180px;
+    margin-left: 200px;
+    align-items: center;
+    list-style: none;
+    display: flex;
+    justify-content: space-between
+}
+
+.palavra1 {
+    margin-left: 120px;
+}
+
+.last {
+    text-align: center;
+    display: flex;
+    margin-left: 150px;
+    margin-top: 4vw;
+    margin-right: 150px;
+    justify-content: space-between;
+    margin-bottom: 4vw;
+    font-size: xx-large;
+
+}
+
+.ultima {
+    margin-top: 5vw;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5vw;
+
+}
+
+.membro {
+    width: 450px;
+}
+
+.fem {
+    width: 290px;
+}
+
+.desconto {
+    width: 390px;
+}
+
+footer {
+    background-color: black;
+}
+
+.help {
+    margin-top: 4vw;
+    font-size: 20px;
+}
+
+.img4 {
+    width: 30px;
+}
+
+.img5 {
+    width: 30px;
+}
+
+.img6 {
+    width: 30px;
+}
+
+.img7 {
+    width: 50px;
+}
+
+.img8 {
+    width: 50px;
+}
+
+.img9 {
+    width: 50px;
+}
+
+.img10 {
+    width: 50px;
+}
+
+.img11 {
+    width: 30px;
+}
